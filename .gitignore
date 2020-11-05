@@ -1,0 +1,8 @@
+# Project exclude paths
+/spring-cloud-eureka/spring-cloud-eureka-client/target/
+/spring-cloud-eureka/spring-cloud-eureka-multi-server-one/target/
+/spring-cloud-eureka/spring-cloud-eureka-multi-server-three/target/
+/spring-cloud-eureka/spring-cloud-eureka-multi-server-two/target/
+/spring-cloud-eureka/spring-cloud-eureka-server/target/
+/spring-cloud-nacos/spring-cloud-nacos-discovery-consumer/target/
+/spring-cloud-nacos/spring-cloud-nacos-discovery-producer/target/
